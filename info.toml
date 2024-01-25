@@ -3,6 +3,7 @@ name     = "Hide Spectator Count"
 author   = "XertroV"
 category = "Race"
 version  = "0.1.0"
+siteid = 497
 
 [script]
 #__DEFINES__
